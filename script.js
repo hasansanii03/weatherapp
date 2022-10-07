@@ -33,3 +33,4 @@ document.querySelector(".search1").addEventListener('keyup',function(event){
    }
 });
 weather.fetchWeather("Denver");
+let him='ciao'
